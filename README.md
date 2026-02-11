@@ -6,13 +6,13 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou Alessandro Rico</h1>
-<h3 align="center">Desenvolvedor full Stack} residente em {São Bernardo do Campo-SP/{Brasil}.</h3>
+<h3 align="center">Desenvolvedor full Stack, residente em São Bernardo do Campo-SP/Brasil.</h3>
 <p align="center">7 anos de experiência em Tecnologia da Informação, sendo 5 anos em Suporte e Atendimento à clientes e 2 anos em desnvolvimento de sistemas.
 Atualmente busco oportunidades para atuar com desenvolvimento e consultoria em projetos de ServiceNow. Minha capacitação atual está focada em Front-end (ITSM, Portal, Catálogo de Serviços e Administração do Sistema)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrorico&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="alessandrorico" /> </p>
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://acaijoaquim.com.br).
+- 🔭 Atualmente, eu trabalho no Açaí Joaquim(https://acaijoaquim.com.br).
 
 - 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
 
